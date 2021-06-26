@@ -6,3 +6,4 @@
 - 🤔 重学css3
 - 🐱‍🏍 了解SVG, Canvas, WebGL及其基本运用
 - ✍️ 学习threejs
+- 🤪 about TensorFlow js
