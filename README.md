@@ -12,6 +12,10 @@
 
 <br />
 <div>
-  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=buqiyuan&show_icons=true&theme=dracula" />
-  <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buqiyuan&show_icons=true&layout=compact&theme=dracula"/>
+  <a href="https://github.com/buqiyuan/buqiyuan"> 
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=buqiyuan&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/buqiyuan/buqiyuan"> 
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buqiyuan&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
 </div>
